@@ -29,7 +29,7 @@ A responsive Fitness Management Website designed to provide gym information and 
 
 # Live Demo
 
-"Visit NovaFit GYM" (https://jasvantsuthar14.github.io/NovaFit_GYM/)
+"Visit NovaFit GYM" ((http://jasvantsuthar14.github.io/novafit-fitness-management/))
 
 Developer : 
 Jasvant Jangid
